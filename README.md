@@ -1,1 +1,3 @@
 # FakeBank
+
+Banking CLI app.
